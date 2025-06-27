@@ -12,16 +12,6 @@
 	<h4 style="color: pink; font-size: 40px;" align="center">ok/</h4>
 	<h1 style="color: pink; font-size: 40px;" align="center">started</h1>
 
-
-
-	
-	one
-	
-	
-	
-	
-	
-	
 	
 	
 </body>
