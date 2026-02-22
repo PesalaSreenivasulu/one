@@ -10,7 +10,7 @@
 	<h1 style="color: pink; font-size: 40px;" align="center">day1 one of jenkins</h1>
 	<h2 style="color: pink; font-size: 40px;" align="center">standard pipeline project</h2>
 	<h4 style="color: pink; font-size: 40px;" align="center">cagning nexus version</h4>
-	<h1 style="color: pink; font-size: 40px;" align="center">started</h1>
+	
 
 	
 	
